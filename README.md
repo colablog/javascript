@@ -5,6 +5,7 @@
 ## aplay()方法
 > fun.aplay(obj,[arg,arg,...])
 ## bind()方法
-> fun.bind(obj,arg,arg,...)() <br>
+> fun.bind(obj,arg,arg,...)() <br> 
+  或 <br>
   let fun2 = fun.bind(obj,arg,arg,...); 
   fun2();
