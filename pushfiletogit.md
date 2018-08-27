@@ -9,6 +9,7 @@
   8. 将文件全部加入本地仓库 ` git add .` <br>
   9. `git commit -am 'des'` <br>
   10. 将文件推送到github ` git push ` <br>
+  11. 将文件推送到对应分支： `git push origin branchName`
   * * *
   # 从云拉去代码 
   `git pull origin master` 拉去项目主分支 <br>
